@@ -34,9 +34,8 @@
 }
 
 #prev-button, #next-button {
-  width: 30px;
+  width: 15px;
   height: 15px;
-  opacity: 5;
   border: none;
   background-color: transparent;
   cursor: pointer;
